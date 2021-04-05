@@ -1,5 +1,5 @@
 #!/bin/bash
-translation="ESV" # Set translation
+translation="NASB" # Set translation
 boldwords="false" # Set 'true' for bolding words of Jesus
 headers="false" # Set 'true' for including editorial headers
 
