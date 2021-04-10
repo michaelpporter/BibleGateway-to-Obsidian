@@ -79,7 +79,7 @@ filename=${export_prefix}$export_number # Setting the filename
 
 
   # Export
-  echo -e $text >> "$filename.md"
+  echo -e $export >> "$filename.md"
 
   # Creating a folder
 
